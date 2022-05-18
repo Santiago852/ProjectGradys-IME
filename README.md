@@ -1,5 +1,10 @@
 # ProjectGradys-IME
-Arquivos do OMNeT++ para simulação com drones no Aterro do Flamengo.
+Arquivos do OMNeT++ para simulação com drones no Aterro do Flamengo. <br />
+Colaboradores: <br />
+D.Sc. Vítor Gouvêa Andrezo Carneiro (IME) <br />
+D.Sc. Bruno José Olivieri de Souza (PUC-Rio) <br />
+Thiago Lamenza (PUC-Rio) <br />
+Artur Santiago de Oliveira Meneses (IME)
 ## Instruções para uso
 Aqui estão presentes os arquivos e maneiras de uso para realizar a simulação de drone - estação conduzida pela equipe do IME no Aterro do Flamengo, como forma de obter um gráfico de potência recebida na estação por tempo a fim de estudar e modelar efeitos de propagação e canal. Todas as configurações e explicações sobre medidas usadas estão presentes nos arquivos de MATLAB e nos arquivos do OMNeT++ presentes nesse repositório.
 ## Instruções para uso
